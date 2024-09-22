@@ -50,7 +50,7 @@ A Node.js-based distributed project management system providing a REST API for m
 
 **Screenshots:**
 
-![Projects table](https://github.com/Emelloul98/Project-Management-REST-API-with-Unsplash-Integration/blob/main/table.png)
-![new project form](https://github.com/Emelloul98/Project-Management-REST-API-with-Unsplash-Integration/blob/main/project-form.png)
-![Unsplash Image Search](https://github.com/Emelloul98/Project-Management-REST-API-with-Unsplash-Integration/blob/main/image-search.png)
-![show project images](https://github.com/Emelloul98/Project-Management-REST-API-with-Unsplash-Integration/blob/main/project-images.png)
+![Projects table](https://github.com/Emelloul98/Project-Management-REST-API-with-Unsplash-Integration/blob/main/table1.png)
+![new project form](https://github.com/Emelloul98/Project-Management-REST-API-with-Unsplash-Integration/blob/main/project-form1.png)
+![Unsplash Image Search](https://github.com/Emelloul98/Project-Management-REST-API-with-Unsplash-Integration/blob/main/image-search1.png)
+![show project images](https://github.com/Emelloul98/Project-Management-REST-API-with-Unsplash-Integration/blob/main/project-images1.png)
